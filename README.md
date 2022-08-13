@@ -14,8 +14,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your project should:
 
--   Be responsive for desktop and mobile phones
--   Have minimum functionalities and effects working
+- Be responsive for desktop and mobile phones
+- Have minimum functionalities and effects working
 
 Want some support on the challenge? [Join our discord community](https://cdm.sh/discord) and ask questions in the **#general** channel.
 
@@ -38,3 +38,12 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 ## Send feedback!
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please visit [codedamn feedback page](https://codedamn.com/contact)
+
+## row working with
+
+### HTML done
+
+## JS and function working with
+
+first define the the data attribite to all html element
+extract from and define the variable all element
