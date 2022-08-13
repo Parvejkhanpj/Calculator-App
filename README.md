@@ -43,6 +43,10 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 ### HTML done
 
+## CSS Done
+
+Css done in second phase
+
 ## JS and function working with
 
 first define the the data attribite to all html element

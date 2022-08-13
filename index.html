@@ -10,30 +10,39 @@
   <body>
     <!-- start writing your code -->
     <div class="calculator-grid">
-      <div class="output">
-        <div class="previous-operand"></div>
-        <div class="current-operand"></div>
-      </div>
-      <button class="span-two">AC</button>
-      <button data-delete>DEL</button>
-      <button data-operation>÷</button>
-      <button data-number>1</button>
-      <button data-number>2</button>
-      <button data-number>3</button>
-      <button data-operation>*</button>
-      <button data-number>4</button>
-      <button data-number>5</button>
-      <button data-number>6</button>
-      <button data-operation>+</button>
-      <button data-number>7</button>
-      <button data-number>8</button>
-      <button data-number>9</button>
-      <button data-operation>-</button>
-      <button data-number>.</button>
-      <button data-number>0</button>
-      <button data-equals class="span-two">=</button>
+      <input id="screen" />
+      <table>
+        <tr>
+          <td><button>%</button></td>
+          <td><button>AC</button></td>
+          <td colspan="2" ><button clas="row-span">DEL</button></td>
+        </tr>
+        <tr>
+          <td><button>9</button></td>
+          <td><button>8</button></td>
+          <td><button>7</button></td>
+          <td><button>X</button></td>
+        </tr>
+        <tr>
+          <td><button>6</button></td>
+          <td><button>5</button></td>
+          <td><button>4</button></td>
+          <td><button>-</button></td>
+        </tr>
+        <tr>
+          <td><button>3</button></td>
+          <td><button>2</button></td>
+          <td><button>1</button></td>
+          <td><button>+</button></td>
+        </tr>
+        <tr>
+          <td><button>.</button></td>
+          <td><button>/</button></td>
+          <td colspan="2""><button  class="row-span">=</button></td>
+        </tr>
+      </table>
     </div>
 
-    <script src="./index.js"></script>
+    <script src="./index.js" defer></script>
   </body>
 </html>
